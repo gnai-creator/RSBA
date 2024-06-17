@@ -14,7 +14,8 @@ The Generalized Robust Spatial Bifurcation Algorithm (GRSBA) is an advanced vers
 - [Applications](#applications)
 - [Usage](#usage)
 - [References](#references)
-- [BenchMarks](#benchmarks)
+- [BenchMarksGRSBA](#benchmarks)
+- [BenchMarksRSBA](#benchmarks)
 
 ## Introduction
 
@@ -101,7 +102,7 @@ The algorithm's flexibility and robustness make it suitable for any field that r
 
 The Generalized Robust Spatial Bifurcation Algorithm (GRSBA) has been rigorously evaluated and benchmarked against several well-known algorithms. Below is a comparative analysis based on various criteria such as robustness, accuracy, and performance.
 
-## Benchmark
+## BenchmarkGRSBA
 
 #### 1. Robustness
 GRSBA is designed to be exceptionally robust, handling noisy and complex data with ease. Its performance has been benchmarked against other common algorithms:
@@ -139,7 +140,7 @@ GRSBA is optimized for performance, making it suitable for real-time application
 ### Summary
 The GRSBA stands out for its robustness and ability to handle noisy data effectively, making it a preferred choice in environments where data quality can be an issue. It performs exceptionally well in predictive maintenance, financial market analysis, and quality control, among other applications. While other algorithms may excel in specific areas, GRSBA's balance of robustness, accuracy, and performance makes it a versatile tool across various industries.
 
-### Benchmark Data
+### BenchmarkRSBA
 The benchmarking tests were conducted using a comprehensive dataset comprising various real-world scenarios. Each algorithm was evaluated on its ability to handle noisy data, prediction accuracy, and computational efficiency.
 
 ## Evaluation and Benchmarking
