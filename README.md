@@ -72,3 +72,9 @@ References
 
     H. D. I. Abarbanel, Analysis of Observed Chaotic Data. Springer, 1996.
     R. Badii and A. Politi, Complexity: Hierarchical Structures and Scaling in Physics. Cambridge University Press, 1997.
+
+
+## License
+
+The Generalized Robust Spatial Bifurcation Algorithm (GRSBA) is available for use only through a paid license. For more information on pricing and licensing terms, please contact the developer.
+
