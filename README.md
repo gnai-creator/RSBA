@@ -46,7 +46,7 @@ The mathematical foundation of the GRSBA involves the following key equations:
 \text{term1} = \frac{v + \frac{(u - v)}{1 - \frac{u \cdot v}{c^2}}}{1 + \frac{v \cdot \left( \frac{u \cdot v}{1 - \frac{u \cdot v}{c^2}} \right)}{c^2}}
 \text{term2} = \frac{4 \cdot w \cdot r}{\pi \cdot \sqrt{1 - \frac{(w \cdot r)^2}{c^2}}}
 \text{result} = \left( \text{term1} + \text{term2} \right) \cdot \left( \frac{1}{a} \right)^{t}
-
+```
 Implementation
 
 The GRSBA has been implemented in Python using TensorFlow for the neural network components and custom bifurcation logic. The code is available on GitHub and can be accessed via the following link: https://github.com/gnai-creator/RSBA/
