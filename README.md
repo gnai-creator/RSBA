@@ -197,6 +197,54 @@ This section provides an in-depth evaluation of RSBA's capabilities, highlightin
 
 This section provides an in-depth evaluation of GRSBA's capabilities, highlighting its strengths and areas where it outperforms other algorithms. The comparative analysis helps in understanding the unique advantages of GRSBA in different contexts.
 
+License
+
+Paid License for Use of the GRSBA Algorithm
+
+License Title: Commercial License for the GRSBA (Generalized Robust Spatial Bifurcation Algorithm)
+
+License Description:
+
+This commercial license allows the use of the GRSBA (Generalized Robust Spatial Bifurcation Algorithm) for commercial purposes, research and development, and integration into products and services. The license is designed to provide full access to the capabilities of GRSBA, ensuring technical support and continuous updates.
+
+License Benefits:
+
+Full Access: Unlimited use of the GRSBA algorithm in production and development environments.
+Regular Updates: Access to all updates and improvements to the algorithm, including new features and optimizations.
+Technical Support: Dedicated technical support for integration, customization, and troubleshooting.
+Comprehensive Documentation: Detailed documentation to facilitate implementation and use of the algorithm.
+Exclusive Training: Exclusive training sessions and webinars for licensees, covering best practices and advanced use cases.
+
+License Terms:
+
+License Period: The license is valid for a period of 12 months from the date of purchase, with the option for annual renewal.
+Scope of Use:
+    Commercial: Permits the incorporation of GRSBA into commercial products, software solutions, and services offered to end customers.
+    Research and Development: Use in research projects, prototype development, and academic studies.
+Limitations:
+    Non-Exclusivity: The license is non-exclusive, allowing the licensor to grant similar licenses to other clients.
+    Redistribution Prohibition: The licensee may not redistribute, sublicense, or sell the GRSBA algorithm to third parties without explicit authorization.
+Confidentiality: The licensee must ensure that all information and source code of GRSBA provided under this license are kept confidential and not disclosed to unauthorized third parties.
+Support and Maintenance: Technical support and maintenance are provided during the license validity period. Additional or specific support may be subject to additional fees.
+Renewal and Cancellation:
+    Renewal: The license can be renewed annually upon payment of the renewal fee.
+    Cancellation: The license may be canceled by either party with 30 days' prior notice. In the event of cancellation, the licensee must cease all use of the GRSBA algorithm.
+
+License Fees:
+
+Annual License: $5,000 per year.
+Renewal Fee: $4,500 per year.
+Discounts: Discounts available for educational institutions and non-profit organizations.
+
+How to Acquire the License: To acquire the commercial license for GRSBA, contact our sales team at rahtomaya@outlook.com
+
+Contact for Support:
+
+Email: rahtomaya@outlook.com
+Phone: +5548998299088
+Website: https://github.com/gnai-creator
+
+Note: This license is subject to additional terms and conditions that may be updated periodically by the licensor.
 
 References
 
